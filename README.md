@@ -15,6 +15,7 @@ dependencies:
 ```sh
 git clone https://github.com/dagogodboss/blockchain_works.git
 cd blockchain_works
+git pull nftTasks
 npm install
 ```
 
