@@ -6,13 +6,13 @@ require("@nomiclabs/hardhat-ethers");
 require("./tasks/faucet");
 
 module.exports = {
-  defaultNetwork: "hardhat",
+  defaultNetwork: "rinkeby",
   networks: {
     hardhat: {
     },
     rinkeby: {
-      url: "https://eth-mainnet.alchemyapi.io/v2/123abc123abc123abc123abc123abcde",
-      accounts: ["efe4371ae999faa253d8353103e20840ed92126fb1616dfa86fbd073861c060f"]
+      url: "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      accounts: ["0xefe4371ae999faa253d8353103e20840ed92126fb1616dfa86fbd073861c060f"]
     }
   },
   solidity: {
