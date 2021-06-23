@@ -47,5 +47,6 @@ Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
 need to have [Metamask](https://metamask.io) installed and listening to
 `rinkeby`.
 
+[Video Demo](https://www.loom.com/share/abf6301002394ddcb9b261d0a09bca79) 
 
 **Happy Testing!**
