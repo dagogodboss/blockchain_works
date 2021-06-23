@@ -1,0 +1,9 @@
+/votingTasks/node_modules
+/nftTasks/node_modules
+.idea
+
+#Hardhat files
+/votingTasks/cache
+/nftTasks/cache
+/votingTasks/artifacts
+/nftTasks/artifacts
